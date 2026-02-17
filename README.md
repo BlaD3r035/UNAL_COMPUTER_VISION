@@ -64,3 +64,6 @@ UNAL_COMPUTER_VISION/
 This project is for educational purposes as part of the Computer Vision course.
 
 ---
+## Related Projects
+UNAL Programming Foundations: [Github](https://github.com/BlaD3r035/UNAL_fnds_prog)
+UNAL Object Oriented Programming  (Computer vision) : [Github](https://github.com/BlaD3r035/UNAL_OOP) 
